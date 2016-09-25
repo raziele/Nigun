@@ -1,0 +1,248 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:contrib
+LIBS:valves
+LIBS:analog_devices
+LIBS:Nigun
+LIBS:hackrf
+LIBS:sma
+LIBS:atmel
+LIBS:Nigun-cache
+EELAYER 25 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L ADRF6612 U1
+U 1 1 57DD9FC9
+P 8050 1200
+F 0 "U1" H 8150 -600 60  0000 C CNN
+F 1 "ADRF6612" H 8200 -350 60  0000 C CNN
+F 2 "" H 7750 1250 60  0000 C CNN
+F 3 "" H 7750 1250 60  0000 C CNN
+	1    8050 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SKY13373 U2
+U 1 1 57E66FA6
+P 14850 6600
+F 0 "U2" H 14650 6400 60  0000 C CNN
+F 1 "SKY13373" H 14650 6600 60  0000 C CNN
+F 2 "" H 14850 6600 60  0000 C CNN
+F 3 "" H 14850 6600 60  0000 C CNN
+	1    14850 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Earth #PWR01
+U 1 1 57E673A0
+P 15350 6900
+F 0 "#PWR01" H 15350 6650 50  0001 C CNN
+F 1 "Earth" H 15350 6750 50  0001 C CNN
+F 2 "" H 15350 6900 50  0000 C CNN
+F 3 "" H 15350 6900 50  0000 C CNN
+	1    15350 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Earth #PWR02
+U 1 1 57E67406
+P 13850 6650
+F 0 "#PWR02" H 13850 6400 50  0001 C CNN
+F 1 "Earth" H 13850 6500 50  0001 C CNN
+F 2 "" H 13850 6650 50  0000 C CNN
+F 3 "" H 13850 6650 50  0000 C CNN
+	1    13850 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Earth #PWR03
+U 1 1 57E67420
+P 15000 5900
+F 0 "#PWR03" H 15000 5650 50  0001 C CNN
+F 1 "Earth" H 15000 5750 50  0001 C CNN
+F 2 "" H 15000 5900 50  0000 C CNN
+F 3 "" H 15000 5900 50  0000 C CNN
+	1    15000 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Earth #PWR04
+U 1 1 57E6743A
+P 14150 5900
+F 0 "#PWR04" H 14150 5650 50  0001 C CNN
+F 1 "Earth" H 14150 5750 50  0001 C CNN
+F 2 "" H 14150 5900 50  0000 C CNN
+F 3 "" H 14150 5900 50  0000 C CNN
+	1    14150 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Earth #PWR07
+U 1 1 57E674C9
+P 2200 7850
+F 0 "#PWR07" H 2200 7600 50  0001 C CNN
+F 1 "Earth" H 2200 7700 50  0001 C CNN
+F 2 "" H 2200 7850 50  0000 C CNN
+F 3 "" H 2200 7850 50  0000 C CNN
+	1    2200 7850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Earth #PWR09
+U 1 1 57E674FD
+P 2200 6050
+F 0 "#PWR09" H 2200 5800 50  0001 C CNN
+F 1 "Earth" H 2200 5900 50  0001 C CNN
+F 2 "" H 2200 6050 50  0000 C CNN
+F 3 "" H 2200 6050 50  0000 C CNN
+	1    2200 6050
+	-1   0    0    1   
+$EndComp
+$Comp
+L Earth #PWR010
+U 1 1 57E6B46B
+P 1000 6650
+F 0 "#PWR010" H 1000 6400 50  0001 C CNN
+F 1 "Earth" H 1000 6500 50  0001 C CNN
+F 2 "" H 1000 6650 50  0000 C CNN
+F 3 "" H 1000 6650 50  0000 C CNN
+	1    1000 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L SMA J1
+U 1 1 57E6B654
+P 750 6550
+F 0 "J1" H 700 6350 60  0000 C CNN
+F 1 "RF_INPUT" H 700 6500 60  0000 C CNN
+F 2 "SMA" H 700 7000 50  0000 C CNN
+F 3 "" H 750 6550 60  0000 C CNN
+	1    750  6550
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	15350 6650 15350 6900
+Wire Wire Line
+	15000 5900 14850 5900
+Wire Wire Line
+	14350 5900 14150 5900
+Wire Wire Line
+	700  6650 750  6650
+Wire Wire Line
+	750  6650 800  6650
+Wire Wire Line
+	800  6650 850  6650
+Wire Wire Line
+	850  6650 1000 6650
+Connection ~ 750  6650
+Connection ~ 800  6650
+Connection ~ 850  6650
+$Comp
+L Earth #PWR?
+U 1 1 57E6BE78
+P 3400 6850
+F 0 "#PWR?" H 3400 6600 50  0001 C CNN
+F 1 "Earth" H 3400 6700 50  0001 C CNN
+F 2 "" H 3400 6850 50  0000 C CNN
+F 3 "" H 3400 6850 50  0000 C CNN
+	1    3400 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SKY13351 U?
+U 1 1 57E83EDF
+P 2800 6850
+F 0 "U?" H 2800 7050 60  0000 C CNN
+F 1 "SKY13351" H 2800 6650 60  0000 C CNN
+F 2 "" H 2800 6850 60  0000 C CNN
+F 3 "" H 2800 6850 60  0000 C CNN
+	1    2800 6850
+	-1   0    0    1   
+$EndComp
+$Comp
+L C C1
+U 1 1 57E83FF1
+P 1550 6850
+F 0 "C1" H 1575 6950 50  0000 L CNN
+F 1 "100pF" H 1575 6750 50  0000 L CNN
+F 2 "" H 1588 6700 50  0000 C CNN
+F 3 "" H 1550 6850 50  0000 C CNN
+	1    1550 6850
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	900  6850 1400 6850
+Wire Wire Line
+	1700 6850 2200 6850
+Text GLabel 1850 7550 0    60   Input ~ 0
+RF_IN_SW_VCTL1
+$Comp
+L C C2
+U 1 1 57E841A6
+P 2200 7700
+F 0 "C2" H 2225 7800 50  0000 L CNN
+F 1 "33pF" H 2225 7600 50  0000 L CNN
+F 2 "" H 2238 7550 50  0000 C CNN
+F 3 "" H 2200 7700 50  0000 C CNN
+	1    2200 7700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2200 7550 2200 6950
+Wire Wire Line
+	1850 7550 2200 7550
+$Comp
+L C C3
+U 1 1 57E843B4
+P 2200 6200
+F 0 "C3" H 2225 6300 50  0000 L CNN
+F 1 "33pF" H 2225 6100 50  0000 L CNN
+F 2 "" H 2238 6050 50  0000 C CNN
+F 3 "" H 2200 6200 50  0000 C CNN
+	1    2200 6200
+	1    0    0    -1  
+$EndComp
+Text GLabel 2000 6350 0    60   Input ~ 0
+RF_IN_SW_VCTL2
+Wire Wire Line
+	2200 6750 2200 6350
+Wire Wire Line
+	2200 6350 2000 6350
+$EndSCHEMATC

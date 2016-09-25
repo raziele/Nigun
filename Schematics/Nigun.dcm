@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADRF6612
+D Wideband Mixer and VCO
+K ADRF6612
+F /Users/raziele/MyReps/Nigun/Datasheets/ADRF6612.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MIC5504-3.3YM5-TR
+D 300[mA] Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT223
+K REGULATOR LDO 3.3V
+F /Users/raziele/MyReps/Nigun/Datasheets/MIC5504-3.3YM5-TR .pdf
+$ENDCMP
+#
 #End Doc Library

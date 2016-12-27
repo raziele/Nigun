@@ -1,4 +1,4 @@
-update=2016 September 24, Saturday 22:42:25
+update=2016 December 13, Tuesday 13:24:41
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../../ClonedReps/kicad-library/library;../../../ClonedReps/hackrf/hardware/kicad;../sma_connectors/library
+LibDir=../../../ClonedReps/kicad-library/library;../../../ClonedReps/hackrf/hardware/kicad;../sma_connectors/library;/Users/raziele/MyReps/Nigun/Footprints
 [eeschema/libraries]
 LibName1=power
 LibName2=device

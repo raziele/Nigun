@@ -1,0 +1,325 @@
+Info: Reading netlist file "/Users/raziele/MyReps/Nigun/Schematics/Nigun.net".
+
+Info: Using references to match components and footprints.
+
+Info: Checking netlist component footprint "C1:/57E83FF1:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C2:/583F48BA:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C3:/583F48D7:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C4:/583F075F:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C5:/583F48C6:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C6:/57E9A56F:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C7:/57E843B4:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C8:/57E841A6:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C9:/583F083D:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C10:/584D4817:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C11:/583F48C0:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C12:/57E9A509:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C13:/583F0F91:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C14:/584FD6C7:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C15:/583F0F97:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C16:/57E9A3DC:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C17:/583F119E:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C18:/57E9A2BC:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C19:/583F11A4:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C20:/584D4E57:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C21:/583E122C:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C22:/583F0651:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C23:/583F11B2:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C24:/583E1238:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C25:/583F11B8:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C26:/584FEA40:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C27:/583E1232:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C28:/583F13C7:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C29:/583E22FC:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C30:/583E2AA4:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C31:/584238B5:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C32:/58713B34:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C33:/58713B22:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C34:/583E2308:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C35:/583E2AB0:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C36:/583F13CD:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C37:/584238BB:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C38:/583E2302:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C39:/583E2AAA:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C40:/5842214D:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C41:/58422153:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C42:/584C6A6C:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C43:/57F00F62:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C44:/57F00FE1:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C45:/584C6A66:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C46:/5843E0ED:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C47:/58447686:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C48:/58442CFE:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C49:/584472FC:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C50:/58442D04:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C51:/58432953:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C52:/58432DBA:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C53:/58442CF8:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C54:/57E999E3:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C55:/57E98EB0:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C56:/58445430:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C57:/584363BE:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C58:/57E99A47:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C59:/57E84808:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C60:/57E84838:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C61:/57E935EB:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C62:/583EE8B3:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C63:/583EE4D7:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C64:/57E93634:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C65:/583EE8B9:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C66:/583EE4DD:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C67:/57E9357B:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C68:/583EE8AD:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C69:/583EE4D1:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C70:/57E957CA:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C71:/5868BBFF:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C72:/57E957D0:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C73:/57E957C4:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C74:/583EE3E5:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C75:/57E95932:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C76:/584444DF:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C77:/57E95890:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C78:/5868BBF8:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C79:/583EE3EB:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C80:/57E95938:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C81:/584444D9:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C82:/57E95896:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C83:/583EE3DF:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C84:/57E9592C:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C85:/57E9588A:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C86:/58689704:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C87:/5868A8B2:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C88:/5868B512:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "C89:/586A85CB:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "D1:/584D5C1E:Footprints:DO-214AA-SMB".
+
+Info: Checking netlist component footprint "D2:/585FF29B:Footprints:LED_kingsbright".
+
+Info: Checking netlist component footprint "D3:/585FBFEB:Footprints:LED_kingsbright".
+
+Info: Checking netlist component footprint "D4:/585FA657:Footprints:LED_kingsbright".
+
+Info: Checking netlist component footprint "D5:/585FBD17:Footprints:LED_kingsbright".
+
+Info: Checking netlist component footprint "J1:/584D1F16:gsg-modules:USB-MICROB-FCI-10103592-EXT".
+
+Info: Checking netlist component footprint "J2:/57E6B654:Microwave:SMA".
+
+Info: Checking netlist component footprint "J3:/57F043B3:Microwave:SMA".
+
+Info: Checking netlist component footprint "L1:/58431611:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "L2:/58431826:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "L3:/58509D80:Capacitors_SMD:C_0805_HandSoldering".
+
+Info: Checking netlist component footprint "P1:/585ED4D4:gsg-modules:HEADER-2x4".
+
+Info: Checking netlist component footprint "P2:/586AEFB2:gsg-modules:HEADER-2x5".
+
+Info: Checking netlist component footprint "R1:/586BE86E:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R2:/57E9B13E:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R3:/57E9AD1E:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R4:/57E9AC44:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R5:/57E9A6CE:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R6:/586001C1:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R7:/584FEFC6:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R8:/584FF487:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R9:/57E9C18F:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R10:/58713B3A:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R11:/58713B28:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R12:/5843E28B:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R13:/5844768C:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R14:/58447302:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R15:/58446CA0:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R16:/585FD759:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R17:/58728DE1:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R18:/586959B3:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R19:/5844119C:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R20:/586C6DAC:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R21:/5869F309:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R22:/5869FAFB:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R23:/586A003D:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R24:/5869FCAB:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R25:/586A03AC:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R26:/586AAB79:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R27:/586AAD6A:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R28:/586AAF2A:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R29:/58729E41:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R30:/585FCA0C:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R31:/586AD1C2:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "R32:/5851BC62:Resistors_SMD:R_0805_HandSoldering".
+
+Info: Checking netlist component footprint "SW1:/58518796:Footprints:Tactile_SW".
+
+Info: Checking netlist component footprint "T1:/57F018D9:Footprints:AT224-1A".
+
+Info: Checking netlist component footprint "T2:/5842EE7B:Footprints:AT224-1A".
+
+Info: Checking netlist component footprint "U1:/586C0C97:hack-footprints:TSOP-6".
+
+Info: Checking netlist component footprint "U2:/57E83EDF:gsg-modules:SKY13351-378LF".
+
+Info: Checking netlist component footprint "U3:/584B2484:TO_SOT_Packages_SMD:SOT-223".
+
+Info: Checking netlist component footprint "U4:/584C153A:gsg-modules:SOT25".
+
+Info: Checking netlist component footprint "U5:/57F046EE:Footprints:CP_0805".
+
+Info: Checking netlist component footprint "U6:/57DD9FC9:ADRF6612_LFCSP48:LFCSP48".
+
+Info: Checking netlist component footprint "U7:/585055F4:Footprints:FOX924".
+
+Info: Checking netlist component footprint "U8:/57E66FA6:Housings_DFN_QFN:QFN-12-1EP_3x3mm_Pitch0.5mm".
+
+Info: Checking netlist component footprint "U9:/5866F3E5:QFN32:QFN32".
+
+Error: Component 'D1' pad '2' not found in footprint 'Footprints:DO-214AA-SMB'
+
+Error: Component 'D1' pad '1' not found in footprint 'Footprints:DO-214AA-SMB'
+
+Error: Component 'J2' pad '3' not found in footprint 'Microwave:SMA'
+
+Error: Component 'J2' pad '4' not found in footprint 'Microwave:SMA'
+
+Error: Component 'J2' pad '5' not found in footprint 'Microwave:SMA'
+
+Error: Component 'J3' pad '3' not found in footprint 'Microwave:SMA'
+
+Error: Component 'J3' pad '4' not found in footprint 'Microwave:SMA'
+
+Error: Component 'J3' pad '5' not found in footprint 'Microwave:SMA'
+
+Error: Component 'SW1' pad '2' not found in footprint 'Footprints:Tactile_SW'
+
+Error: Component 'T1' pad '6' not found in footprint 'Footprints:AT224-1A'
+
+Error: Component 'T2' pad '6' not found in footprint 'Footprints:AT224-1A'
+
+Error: Component 'U5' pad '~' not found in footprint 'Footprints:CP_0805'
+
+Error: Component 'U5' pad '~' not found in footprint 'Footprints:CP_0805'
+
+Error: Component 'U5' pad '~' not found in footprint 'Footprints:CP_0805'
+
+Error: Component 'U9' pad '33' not found in footprint 'QFN32:QFN32'

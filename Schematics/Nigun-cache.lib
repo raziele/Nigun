@@ -247,11 +247,11 @@ X ~ 2 0 -100 80 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# D_Schottky_Small
+# D_Schottky_Small-RESCUE-Nigun
 #
-DEF D_Schottky_Small D 0 10 N N 1 F N
+DEF D_Schottky_Small-RESCUE-Nigun D 0 10 N N 1 F N
 F0 "D" -50 80 50 H V L CNN
-F1 "D_Schottky_Small" -280 -80 50 H V L CNN
+F1 "D_Schottky_Small-RESCUE-Nigun" -280 -80 50 H V L CNN
 F2 "" 0 0 50 V V C CNN
 F3 "" 0 0 50 V V C CNN
 $FPLIST
@@ -323,12 +323,12 @@ ENDDEF
 #
 DEF L_Small L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
-F1 "L_Small" -50 -150 50 V V L CNN
+F1 "L_Small" 30 -40 50 H V L CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
- Choke_*
- *Coil*
+ CP*
+ SM*
 $ENDFPLIST
 DRAW
 A 0 -60 20 -899 899 0 1 0 N 0 -80 0 -40
@@ -348,8 +348,8 @@ F1 "Led_Small" -175 -100 50 H V L CNN
 F2 "" 0 0 50 V V C CNN
 F3 "" 0 0 50 V V C CNN
 $FPLIST
- LED-*
- LED_*
+ CP*
+ SM*
 $ENDFPLIST
 DRAW
 P 2 0 1 0  -30 -40  -30 40 N

@@ -1,0 +1,17 @@
+(module MOUNTING_HOLE-126MIL-COPPER (layer F.Cu) (tedit 5883817F)
+  (fp_text reference J4 (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
+  )
+  (fp_text value MOUNTING_HOLE (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.00076 1.00076) (thickness 0.2032)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 5.6 5.6) (drill 3.2004) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 0 -2.2) (size 0.6 0.6) (drill 0.381) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at -2.2 0) (size 0.6 0.6) (drill 0.381) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 0 2.2) (size 0.6 0.6) (drill 0.381) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 2.2 0) (size 0.6 0.6) (drill 0.381) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 1.55 -1.55) (size 0.6 0.6) (drill 0.381) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at -1.55 -1.55) (size 0.6 0.6) (drill 0.381) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at -1.55 1.55) (size 0.6 0.6) (drill 0.381) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 1.55 1.55) (size 0.6 0.6) (drill 0.381) (layers *.Cu *.Mask))
+)

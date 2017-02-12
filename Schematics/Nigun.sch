@@ -1625,7 +1625,7 @@ U 1 1 584D1F16
 P 900 950
 F 0 "J1" H 900 1250 60  0000 C CNN
 F 1 "USB-MICRO-B" H 900 600 60  0000 C CNN
-F 2 "gsg-modules:USB-MICROB-FCI-10103592-EXT" H 900 950 60  0000 C CNN
+F 2 "gsg-modules:USB-MICROB-FCI-10103592-EXT" H 850 500 60  0001 C CNN
 F 3 "" H 900 950 60  0000 C CNN
 	1    900  950 
 	-1   0    0    1   
@@ -2020,9 +2020,9 @@ F 3 "" H 13600 2800 50  0000 C CNN
 	1    13600 2800
 	1    0    0    -1  
 $EndComp
-Text GLabel 2150 2350 2    39   BiDi ~ 0
+Text GLabel 1950 1850 2    39   BiDi ~ 0
 USB_D+
-Text GLabel 2150 2450 2    39   BiDi ~ 0
+Text GLabel 1950 1950 2    39   BiDi ~ 0
 USB_D-
 $Comp
 L C_Small C88
@@ -2404,18 +2404,6 @@ F 2 "Resistors_SMD:R_0402" H 14450 2200 50  0001 C CNN
 F 3 "" H 14450 2200 50  0000 C CNN
 	1    14450 2200
 	0    -1   -1   0   
-$EndComp
-$Comp
-L STF202 U1
-U 1 1 586C0C97
-P 1750 2100
-F 0 "U1" H 1500 2150 40  0000 C CNB
-F 1 "STF202" H 1750 2150 40  0000 C CNB
-F 2 "hack-footprints:TSOP-6" H 1400 2050 60  0000 C CNN
-F 3 "" H 1500 2150 60  0000 C CNN
-F 4 "STF202-22T1G" H 1750 2200 60  0000 C CNN "manf#"
-	1    1750 2100
-	1    0    0    -1  
 $EndComp
 Connection ~ 12650 5800
 Wire Wire Line
@@ -2941,38 +2929,25 @@ Wire Notes Line
 Wire Notes Line
 	14550 5500 14550 4650
 Wire Wire Line
-	1150 1150 1950 1150
-Wire Wire Line
 	5600 2650 5600 3500
 Wire Wire Line
 	5600 3500 4850 3500
 Connection ~ 4850 3500
 Connection ~ 5600 2650
 Wire Wire Line
-	1150 1050 1300 1050
+	1150 1050 1600 1050
 Wire Wire Line
-	1300 1050 1300 2350
-Wire Wire Line
-	1300 2350 1350 2350
-Wire Wire Line
-	1350 1150 1350 2250
-Connection ~ 1350 1150
-Wire Wire Line
-	1150 950  1250 950 
-Wire Wire Line
-	1250 950  1250 2450
-Wire Wire Line
-	1250 2450 1350 2450
+	1150 950  1800 950 
 $Comp
 L Earth #PWR065
 U 1 1 586C4520
-P 2150 2250
-F 0 "#PWR065" H 2150 2000 50  0001 C CNN
-F 1 "Earth" H 2150 2100 50  0001 C CNN
-F 2 "" H 2150 2250 50  0000 C CNN
-F 3 "" H 2150 2250 50  0000 C CNN
-	1    2150 2250
-	0    -1   -1   0   
+P 1300 2650
+F 0 "#PWR065" H 1300 2400 50  0001 C CNN
+F 1 "Earth" H 1300 2500 50  0001 C CNN
+F 2 "" H 1300 2650 50  0000 C CNN
+F 3 "" H 1300 2650 50  0000 C CNN
+	1    1300 2650
+	1    0    0    -1  
 $EndComp
 $Comp
 L PWR_FLAG #FLG066
@@ -3234,4 +3209,39 @@ F 3 "" H 7500 3600 50  0000 C CNN
 $EndComp
 Wire Wire Line
 	8600 9100 7400 9100
+Text Label 1250 950  0    60   ~ 0
+D+
+Text Label 1300 1050 0    60   ~ 0
+D-
+$Comp
+L PRTR5V0U2X D6
+U 1 1 589FED3C
+P 1500 2350
+F 0 "D6" H 1400 2054 50  0000 L CNN
+F 1 "PRTR5V0U2X" H 1400 1944 50  0000 L CNN
+F 2 "SOT143B" H 1500 2350 50  0001 L CNN
+F 3 "NXP Semiconductors" H 1200 2800 50  0001 L CNN
+F 4 "SOT-143 NXP Semiconductors" H 1000 2900 50  0001 L CNN "Package"
+F 5 "0.38 USD" H 1500 2350 50  0001 L CNN "Price"
+F 6 "PRTR5V0U2X" H 1500 2350 50  0001 L CNN "MP"
+F 7 "Good" H 1500 2350 50  0001 L CNN "Availability"
+F 8 "DIODE, TVS, DUAL, SOT-143B; Diode Type: TVS, Bidirectional; Voltage, Stand-off: 5.5V; Voltage, Vbr: 9V; Termination T..." H -450 1800 50  0001 L CNN "Description"
+	1    1500 2350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 2050 1300 1150
+Wire Wire Line
+	1150 1150 1950 1150
+Connection ~ 1300 1150
+Wire Wire Line
+	1600 1050 1600 2050
+Wire Wire Line
+	1800 950  1800 2050
+Wire Wire Line
+	1950 1850 1800 1850
+Connection ~ 1800 1850
+Wire Wire Line
+	1950 1950 1600 1950
+Connection ~ 1600 1950
 $EndSCHEMATC

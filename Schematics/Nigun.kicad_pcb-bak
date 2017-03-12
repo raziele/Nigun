@@ -6,7 +6,7 @@
     (area 64.612519 41.71498 170.293558 95.0444)
     (thickness 1.6)
     (drawings 9)
-    (tracks 1346)
+    (tracks 1347)
     (zones 0)
     (modules 146)
     (nets 98)
@@ -29,7 +29,7 @@
     (44 Edge.Cuts user)
     (45 Margin user)
     (47 F.CrtYd user)
-    (49 F.Fab user hide)
+    (49 F.Fab user)
   )
 
   (setup
@@ -5120,7 +5120,6 @@
   (gr_line (start 169.3545 43.688) (end 169.3545 91.44) (angle 90) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 116.84 42.291) (end 167.64 42.291) (angle 90) (layer Edge.Cuts) (width 0.2))
 
-  (segment (start 135.717736 54.074291) (end 135.72172 54.070307) (width 0.3302) (layer Back) (net 0))
   (segment (start 127.35306 54.4322) (end 126.7968 54.4449) (width 0.1524) (layer Front) (net 1))
   (segment (start 125.6792 54.4322) (end 126.7968 54.4449) (width 0.4318) (layer Front) (net 1))
   (segment (start 125.6792 54.4322) (end 124.8322 54.4322) (width 0.4318) (layer Front) (net 1))
@@ -5798,6 +5797,8 @@
   (via (at 152.654 81.2165) (size 0.508) (drill 0.3302) (layers Front Back) (net 24))
   (segment (start 155.94466 44.44238) (end 155.922034 44.465006) (width 0.4318) (layer Front) (net 24))
   (segment (start 156.188734 46.195933) (end 156.18968 46.19688) (width 0.4318) (layer Front) (net 24))
+  (segment (start 134.8144 55.6514) (end 134.8144 54.441) (width 0.3302) (layer Front) (net 25))
+  (segment (start 134.8144 54.441) (end 134.8056 54.4322) (width 0.3302) (layer Front) (net 25))
   (segment (start 137.7882 55.6792) (end 134.8144 55.6514) (width 0.3302) (layer Front) (net 25))
   (segment (start 138.2882 55.7042) (end 138.277176 55.015976) (width 0.3302) (layer Front) (net 26))
   (segment (start 138.277176 55.015976) (end 138.277176 54.598394) (width 0.4318) (layer Front) (net 26))

@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/raziele/MyReps/Nigun/Schematics/Nigun.sch)
-    (date "2017 February 24, Friday 19:09:42")
+    (date "2017 March 12, Sunday 23:53:10")
     (tool "Eeschema 4.0.5")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -653,7 +653,7 @@
       (tstamp 585055F4))
     (comp (ref L3)
       (value 10uH)
-      (footprint Capacitors_SMD:C_0805_HandSoldering)
+      (footprint Capacitors_SMD:C_0603_HandSoldering)
       (libsource (lib device) (part L_Small))
       (sheetpath (names /) (tstamps /))
       (tstamp 58509D80))
@@ -1258,10 +1258,10 @@
   (libraries
     (library (logical Nigun-rescue)
       (uri /Users/raziele/MyReps/Nigun/Schematics/Nigun-rescue.lib))
-    (library (logical conn)
-      (uri "/Library/Application Support/kicad/library/conn.lib"))
     (library (logical device)
       (uri "/Library/Application Support/kicad/library/device.lib"))
+    (library (logical conn)
+      (uri "/Library/Application Support/kicad/library/conn.lib"))
     (library (logical Nigun)
       (uri /Users/raziele/MyReps/Nigun/Schematics/Nigun.lib))
     (library (logical hackrf)

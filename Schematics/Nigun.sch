@@ -1767,7 +1767,7 @@ U 1 1 58509D80
 P 15700 1100
 F 0 "L3" H 15730 1140 50  0000 L CNN
 F 1 "10uH" V 15650 950 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 15700 1100 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 15700 1100 50  0001 C CNN
 F 3 "" H 15700 1100 50  0000 C CNN
 	1    15700 1100
 	0    -1   -1   0   
@@ -3221,5 +3221,64 @@ F 2 "Resistors_SMD:R_0402" H 14800 1000 50  0001 C CNN
 F 3 "" H 14800 1000 50  0000 C CNN
 	1    14800 1000
 	0    -1   -1   0   
+$EndComp
+$Comp
+L Mounting_hole M1
+U 1 1 59125E7B
+P 15300 8200
+F 0 "M1" H 15350 7900 60  0000 C CNN
+F 1 "Mounting_hole" H 15300 8000 60  0000 C CNN
+F 2 "Footprints:Mounting_hole_100mil" H 15300 8200 60  0001 C CNN
+F 3 "" H 15300 8200 60  0001 C CNN
+	1    15300 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mounting_hole M2
+U 1 1 5912659E
+P 15300 8700
+F 0 "M2" H 15350 8400 60  0000 C CNN
+F 1 "Mounting_hole" H 15300 8500 60  0000 C CNN
+F 2 "Footprints:Mounting_hole_100mil" H 15300 8700 60  0001 C CNN
+F 3 "" H 15300 8700 60  0001 C CNN
+	1    15300 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mounting_hole M3
+U 1 1 59126773
+P 15300 9150
+F 0 "M3" H 15350 8850 60  0000 C CNN
+F 1 "Mounting_hole" H 15300 8950 60  0000 C CNN
+F 2 "Footprints:Mounting_hole_100mil" H 15300 9150 60  0001 C CNN
+F 3 "" H 15300 9150 60  0001 C CNN
+	1    15300 9150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mounting_hole M4
+U 1 1 59126946
+P 15300 9650
+F 0 "M4" H 15350 9350 60  0000 C CNN
+F 1 "Mounting_hole" H 15300 9450 60  0000 C CNN
+F 2 "Footprints:Mounting_hole_100mil" H 15300 9650 60  0001 C CNN
+F 3 "" H 15300 9650 60  0001 C CNN
+	1    15300 9650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14950 8200 14950 9650
+Connection ~ 14950 8700
+Connection ~ 14950 9150
+$Comp
+L Earth #PWR074
+U 1 1 59128D23
+P 14950 9650
+F 0 "#PWR074" H 14950 9400 50  0001 C CNN
+F 1 "Earth" H 14950 9500 50  0001 C CNN
+F 2 "" H 14950 9650 50  0000 C CNN
+F 3 "" H 14950 9650 50  0000 C CNN
+	1    14950 9650
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

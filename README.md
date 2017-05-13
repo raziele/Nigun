@@ -1,7 +1,7 @@
 ## Nigun (Melody)
 RF down-converter for SDR
 
-[![NIGUN 3D model](/nigun_3d.png)](#Nigun PCB 3D model)
+[![NIGUN 3D model](https://github.com/raziele/Nigun/blob/master/Nigun_3d.png)]
 
 ## PURPOSE
 Allow low-frequency SDR (mainly RTL-SDR) to recieve wireless signals in frequencies higher than 1500MHz

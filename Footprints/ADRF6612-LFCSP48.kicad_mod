@@ -260,4 +260,9 @@
   (pad 47 smd rect (at -2.25 -3.3 270) (size 0.7 0.32) (layers F.Cu F.Paste F.Mask))
   (pad 48 smd rect (at -2.75 -3.325 270) (size 0.6 0.32) (layers F.Cu F.Paste F.Mask))
   (pad EXP smd rect (at 0 0) (size 5.1 5.1) (layers F.Cu F.Paste F.Mask))
+  (model "/Users/raziele/MyReps/Nigun/3Dmodels/LFCSP 48.wrl"
+    (at (xyz -0.141 0.14 0))
+    (scale (xyz 0.401 0.401 0.401))
+    (rotate (xyz 270 0 0))
+  )
 )

@@ -13,4 +13,9 @@
   (pad 1 smd rect (at -2 1.25) (size 1.6 1.3) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 2 -1.25) (size 1.6 1.3) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -2 -1.25) (size 1.6 1.3) (layers F.Cu F.Paste F.Mask))
+  (model /Users/raziele/Downloads/crystal_smd_52x34x1.wrl
+    (at (xyz 0.14 0.09 0))
+    (scale (xyz 0.55 0.55 0.55))
+    (rotate (xyz -90 0 90))
+  )
 )

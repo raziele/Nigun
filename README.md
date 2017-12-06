@@ -1,10 +1,12 @@
 ## Nigun (Melody)
-RF down-converter for SDR
+RF down-converter for (but not only for) SDR
 
 ![NIGUN 3D model](https://github.com/raziele/Nigun/blob/master/Nigun_3d.png)
 
 ## PURPOSE
 Allow low-frequency SDR (mainly RTL-SDR) to recieve wireless signals in frequencies higher than 1500MHz
+Nigun is platform-independant, so it can be paired with other devices such as YARD stick ONE and PandwaRF too!
+
 
 ## MAIN PROPERTIES
 * Dynamic LO - LO will be determined by the user and programmed by the MCU

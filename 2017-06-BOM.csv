@@ -1,0 +1,49 @@
+References,Qty,Description,Mouser cart
+"C1, C43, C44, C9, C15, C19, C25, C36, C41, C37, C78, C42",12,C 100pF Unpolarized capacitor 0402,V
+C6,1,C 1500pF Unpolarized capacitor 0402,V
+"C8, C7",2,C 33pF Unpolarized capacitor 0402,V
+"C10, C20, C14, C26, C88",5,C 1uF Unpolarized capacitor 0402,V
+C12,1,C 0.033uF Unpolarized capacitor 0402,V
+C16,1,C 560pF Unpolarized capacitor 0402,V
+C18,1,C 39pF Unpolarized capacitor 0402,V
+"C46, C58, C50, C48, C33, C32",6,C 1000pF Unpolarized capacitor 0402,V
+"C53, C54, C59, C52, C47",5,C 150pF Unpolarized capacitor 0402,V
+C57,1,C 22pF Unpolarized capacitor 0402,V
+"C60, C62",2,C 10nF Unpolarized capacitor 0402,V
+"C61, C63, C72, C79, C77, C56, C27, C38, C39, C76, C65, C64, C11, C49",14,C 10pF Unpolarized capacitor 0402,V
+"C66, C74, C84, C82, C24, C34, C35, C81, C68, C67, C5, C51, C89, C80, C91",15,C 0.1uF Unpolarized capacitor 0402,V
+"C69, C75, C87, C86, C29, C30, C85, C71, C70, C22, C4, C13, C17, C23, C28, C3, C40, C31, C55, C83, C45, C90, C73",23,C 10uF Unpolarized capacitor 0402,V
+D1,1,D Schottky Small-RESCUE-Nigun Small DO-214AA-SMB,V
+D3,1,Led Small-RESCUE-Nigun Green LED kingsbright,V
+D4,1,Led Small-RESCUE-Nigun Blue LED kingsbright,V
+"D5, D2",2,Led Small-RESCUE-Nigun Red LED kingsbright,V
+D6,1,PRTR5V0U2X SOT143B,V
+J1,1,USB-MICRO-B FRAMATOME 10118194-0001LF,V
+"J2,J3",2,SMA RF EDGELAUNCH,V
+"L1, L2",2,"L Small 330nH Inductor, small symbol C 0402",V
+L3,1,L Small 10uH Inductor,V
+P1,1,"CONN 02X04 Connector, double row, 02x04 HEADER-2x4",V
+P2,1,CONN SWD HEADER-2x5,V
+"R2, R9, R21, R22, R24, R23, R25, R1, R26, R27, R28, R20, R17",13,R 0 Resistor 0402,V
+R3,1,R 910 Resistor 0402,V
+R4,1,R 1.8k Resistor 0402,V
+R5,1,R 20k Resistor 0402,V
+R7,1,R 3.92K Resistor 0402,V
+R8,1,R 2K Resistor 0402,V
+"R12, R15, R14, R13, R11, R10",6,R 50 Resistor 0402,V
+"R18, R31",2,"R Small 10k Resistor, small symbol 0402",V
+"R19, R32, R30, R16, R6",5,R 330 Resistor 0402,V
+R29,1,"R Small 1k Resistor, small symbol 0402",V
+SW1,1,SW PUSH SMALL H Tactile,V
+T1,1,TC1-1-43A+,alternative
+T2,1,TC4-1W+,alternative
+U2,1,SKY13351 SKY13351-378LF,V
+U3,1,"MIC5504-3.3YM5-TR 300[mA] Fixed Low Drop Positive Voltage Regulator, Output 3.3V, SOT223 SOT-23-5",V
+U4,1,AP7365-WG-7 SOT25,V
+U5,1,LP0805A1119AS LP0805A0881AS CP 0805,Min.QTY
+U6,1,ADRF6612 Wideband Mixer and VCO LFCSP48,V
+U7,1,FOX924B-16.000 FOX924,V
+U8,1,SKY13373 QFN-12-1EP 3x3mm Pitch0.5mm,V
+U9,1,ATSAMD21E Atmel SAM D21 Cortex M0+ series QFN32,V
+,146,,
+,46,,43

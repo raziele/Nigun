@@ -1,4 +1,4 @@
-update=2017 January 27, Friday 01:39:02
+update=2017 June 10, Saturday 19:29:02
 version=1
 last_client=kicad
 [cvpcb]
@@ -6,25 +6,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[pcbnew]
-version=1
-PageLayoutDescrFile=
-LastNetListRead=Nigun_0402.net
-PadDrill=0.762
-PadDrillOvalY=0.762
-PadSizeH=1.524
-PadSizeV=1.524
-PcbTextSizeV=1.5
-PcbTextSizeH=1.5
-PcbTextThickness=0.3
-ModuleTextSizeV=1
-ModuleTextSizeH=1
-ModuleTextSizeThickness=0.15
-SolderMaskClearance=0.2
-SolderMaskMinWidth=0
-DrawSegmentWidth=0.2
-BoardOutlineThickness=0.2
-ModuleOutlineThickness=0.15
 [eeschema]
 version=1
 LibDir=../../../ClonedReps/kicad-library/library;../../../ClonedReps/hackrf/hardware/kicad;../sma_connectors/library;/Users/raziele/MyReps/Nigun/Footprints
@@ -63,3 +44,22 @@ LibName31=Nigun
 LibName32=hackrf
 LibName33=atmel
 LibName34=/Users/raziele/ClonedReps/HACK/kicad/hack
+[pcbnew]
+version=1
+PageLayoutDescrFile=
+LastNetListRead=Nigun.net
+PadDrill=0.3048
+PadDrillOvalY=0.3048
+PadSizeH=0.4572
+PadSizeV=0.4572
+PcbTextSizeV=1.5
+PcbTextSizeH=1.5
+PcbTextThickness=0.3
+ModuleTextSizeV=0.508
+ModuleTextSizeH=0.508
+ModuleTextSizeThickness=0.0635
+SolderMaskClearance=0.2
+SolderMaskMinWidth=0
+DrawSegmentWidth=0.2
+BoardOutlineThickness=0.2
+ModuleOutlineThickness=0.15
